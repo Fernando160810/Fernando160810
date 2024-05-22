@@ -7,22 +7,22 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**🚀 Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Java](https://camo.githubusercontent.com/70382ec8b6ad4f51d96246f0371f9660d4709cd5894734ab3de46dae24ef48e0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661)
+![MySQL](https://camo.githubusercontent.com/9bf95043af954f6a6fece35e50c932838ad1717f94edb4056322f3c26b5906c2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c)
+![HTML5](https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c)
+![CSS](https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373)
 
-**DevOps**
+**🛠️ DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974)
+![GitHub](https://camo.githubusercontent.com/a3e65c4a887a1abb4fdb1cf11771df9db7ea20f3d5aa683c51999899613bb8a5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562)
 
-**Ferramentas de desenvolvimento**
+**💻 Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Visual Studio Code](https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465)
+![MySQL](https://camo.githubusercontent.com/9bf95043af954f6a6fece35e50c932838ad1717f94edb4056322f3c26b5906c2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c)
 
 <br/>
 
