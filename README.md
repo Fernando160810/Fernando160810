@@ -27,5 +27,5 @@
 <br/>
 
 <a href="https://github.com/Fernando160810" title="Perfil do Fernando">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando160810&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando160810&theme=dark&show_icons=true" />
 </a>
